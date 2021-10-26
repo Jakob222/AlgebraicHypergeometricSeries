@@ -507,7 +507,7 @@ Cell[BoxData[{
           RowBox[{"Return", "[", "\"\<reducible and algebraic\>\"", "]"}]}], 
          "]"}], ";", 
         RowBox[{"Sol", "=", 
-         RowBox[{"HyperSol", "[", 
+         RowBox[{"hyperSol", "[", 
           RowBox[{"a", ",", "b", ",", "c"}], "]"}]}], ";", 
         RowBox[{"If", "[", 
          RowBox[{
